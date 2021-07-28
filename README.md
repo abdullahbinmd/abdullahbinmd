@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Internet of things / Networking / Desktops Servers / Social Media 
 - 🌱 I’m currently learning ... Data Analytics
 - 💞️ I’m looking to collaborate on ... everyone 
-- 📫 How to reach me ... abdullahbinmd@gmail.com
+- 📫 How to reach me ... abdullahbinmd
 
 <!---
 abdullahbinmd/abdullahbinmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
